@@ -1,11 +1,10 @@
-# CryptoExchange
-Andela Android Learning Community Intermediate Track Challenge; A Google/Andela Learning Community (ALC) 2.0 for Nigerians &amp; Kenyans Assessment Project by me Olebuezi Obinna David
+# CryptoCompare
+Andela Android Learning Community Intermediate Track Challenge; A Google/Andela Learning Community (ALC) 2.0 Assessment Project for Nigerians and Kenyans by Prince Chimaobim Nwaubuikwu
 
-# CryptoExchange Andela-ALC-Assessment
+# CryptoCompare Andela-ALC-Assessment
 
-Andela Android Learning Community Intermediate Track Challenge; A Google/Andela Learning Community (ALC) 2.0 for Nigerians & Kenyans Assessment Project by me Olebuezi Obinna David
 
-# Challenge
+# The Challenge
 
 Build an Android application to show the latest exchange rate between cryptocurrencies (BTC and ETH) and 20 major world currencies including Naira. Use the crypyocompare public api to get the latest exchange rate
 
@@ -43,3 +42,12 @@ compile fileTree(dir: 'libs', include: ['*.jar']) androidTestCompile('com.androi
     compile 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'
     compile 'com.android.volley:volley:1.0.0'
     testCompile 'junit:junit:4.12'
+    
+    This app converts crypto-currencies into at least 20 currencies including Nigeria Naira. This is what the crypto-currency dashboard looks like: https://user-images.githubusercontent.com/25517682/32408645-e24b0f4a-c19b-11e7-8b70-8cb55ab4f7bb.png
+    
+
+Cryptocurrency fast convert page: https://user-images.githubusercontent.com/25517682/32408647-e80ee686-c19b-11e7-98c9-2c1faa37ce27.png
+
+About page: https://user-images.githubusercontent.com/25517682/32408657-26274e2c-c19c-11e7-88bf-e337ff190e4b.png
+
+Credit page: https://user-images.githubusercontent.com/25517682/32408658-275b4ab4-c19c-11e7-9bbf-58c0c70fa9b8.png
